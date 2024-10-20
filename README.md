@@ -1,8 +1,10 @@
 # 💫 About Me:
 4th Year student in Software Development with Virtual Reality and Gaming!<br>Studying in TUS Athlone.<br><br>Interested in game development and Virtual Reality.<br><br><br>
 
-
+# 🧑‍💻 Project Portfolio:
+[![Notion_app_logo](https://github.com/user-attachments/assets/baf0dc9c-e68d-4963-bb6a-139474c6b9cd)](https://www.notion.so/Piotr-Warkocki-Project-Portfolio-125f9a93b2f180f7adbdfa0de89339e5)
 ## 🌐 Socials:
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/piotrrrrr03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PiotrWarkocki) 
 
 # 💻 Tech Stack:
